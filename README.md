@@ -12,7 +12,7 @@
 
 - Dataset was taken form the Kaggle.
 - **EDA, Data cleaning & Feature engineering techniques** has been applied.
--**Classification Algorithms** like Random Forest , Logistic regression, XGbosst classifier has been applied to the model
+- **Classification Algorithms** like Random Forest , Logistic regression, XGbosst classifier has been applied to the model
 
 ### Applied Algorithms & their Accuracy.
 
